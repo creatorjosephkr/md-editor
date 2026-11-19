@@ -30,6 +30,7 @@
     "afterPack": "./scripts/after-pack.cjs",
     "mac": {
       "icon": "assets/icon.icns",
+      "artifactName": "${productName}-${version}-macOS-${arch}.${ext}",
       "category": "public.app-category.productivity",
       "target": [
         "dmg",
@@ -42,10 +43,12 @@
       }
     },
     "win": {
-      "icon": "assets/icon.ico"
+      "icon": "assets/icon.ico",
+      "artifactName": "${productName}-${version}-Windows-${arch}.${ext}"
     },
     "linux": {
-      "icon": "assets/icons"
+      "icon": "assets/icons",
+      "artifactName": "${productName}-${version}-Linux-${arch}.${ext}"
     },
     "fileAssociations": [
       {
