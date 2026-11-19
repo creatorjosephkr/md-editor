@@ -4,12 +4,27 @@
 
 ---
 
-## 이름의 의미: 왜 ‘먹(Meok)’인가요?
+## 애플리케이션 이름 이야기
 
-**먹(墨, Meok)**은 전통 서예와 인쇄에서 종이 위에 글과 그림을 또렷하게 담아내는 **먹물**을 뜻합니다.  
-디지털로 작성한 마크다운(Markdown) 문서를 가장 깔끔한 형태로 읽고, 한 장의 종이나 PDF로 선명하게 찍어낼 수 있도록 돕는다는 의미를 담고 있습니다.
+**Meok**<span style="font-weight: normal;"> = </span>**M**<span style="font-weight: normal;">arkdown · </span>**E**<span style="font-weight: normal;">ditor · </span>**O**<span style="font-weight: normal;">utput · </span>**K**<span style="font-weight: normal;">it</span>
 
----
+#### 스토리텔링
+
+
+> "**Meok**"은 **M**arkdown **E**ditor **O**utput **K**it의 첫 글자를 딴 이름입니다. 
+> 워드프로세서처럼 쉽게 마크다운을 쓰고(Editor), 원하는 형태로 자유롭게 내보내는(Output) 올인원 도구(Kit)라는 의미를 담았습니다. 
+> 동시에 "**먹처럼 진하게 글을 써내려간다**"는 한글 이름의 정서도 함께 갖고 있습니다.
+
+#### **정리**
+
+- **한글명**: 먹
+- **영문명**: Meok
+- **백로닉**: Markdown · Editor · Output · Kit
+- **한 줄 카피**: "마크다운! 먹처럼 진하게 — Meok"
+
+<div data-raw-html="true" style="text-align: center; margin: 1em 0px;"><img src="https://raw.githubusercontent.com/creatorjosephkr/images/main/images/Gemini_Generated_Image_fmzy7rfmzy7rfmzy_1783840513122.png" alt="" style="max-width: 100%; width: 100%;"></div>
+
+
 
 ## 주요 기능
 
